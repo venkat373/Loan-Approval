@@ -168,7 +168,7 @@ loan-approval-prediction/
 **Venkat Korampally**  
 Aspiring **Data Scientist & Data Analyst**
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/venkat- korampally
+- 🔗 LinkedIn: https://www.linkedin.com/in/venkat-korampally
 - 💻 GitHub: https://github.com/venkat373
 - 📧 Email: venkatkorampally6@gmail.com
 
